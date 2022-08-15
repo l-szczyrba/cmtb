@@ -43,7 +43,7 @@ The test bed is established at the USACE CHL Field REsearch Facility in Duck, No
     - conda install <package>
     
       conda install -c conda-forge cartopy
-    * netCDF4, pyproj, utm, wavespectra, progressbar, opencv-python
+    * netCDF4, pyproj, utm, wavespectra, progressbar, opencv-python, xarray
   
   - there's likely more, please add as you find!!  :-[]
   
